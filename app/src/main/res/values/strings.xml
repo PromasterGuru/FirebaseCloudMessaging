@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Firebase Cloud Messaging</string>
+    <string name="subscription_message">Click to subscript to promaster guru coding tips that will make your standout of other developers. Log Token button logs InstanceID token on the console</string>
+    <string name="subscribe">SUBSCRIBE</string>
+    <string name="log_token">LOG TOKEN</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="msg_subscribed">Subscribed to programming topics</string>
+    <string name="msg_subscribe_failed">Failed to subscribe to weather topic</string>
+    <string name="default_notification_channel_name" translatable="false">Programming</string>
+    <string name="fcm_message">FCM Message</string>
+
+</resources>
